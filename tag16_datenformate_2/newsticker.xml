@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/resources/xsl/rdf_xsl.jsp" type="text/xsl"?>
+<rss version="2.0">
+<!--
+* XML-format for teasering tagesschau.de-headlines. Version: 2.0
+* Release-Date:2002/02/04, last updated 2006/06/28
+*
+* Die Nutzung dieser Inhalte ist ausschliesslich nicht-kommerziellen Internet-
+* Angeboten erlaubt, die Nutzung kann jederzeit von tagesschau.de untersagt
+* werden. tagesschau.de übernimmt keinen Support, zudem wird keine Verfügbarkeit
+* dieser XML-Datei gewährleistet. Die Inhalte dürfen nicht archiviert werden.
+//-->
+	<channel>
+		<title>tagesschau.de - Die Nachrichten der ARD</title>
+		<link>http://www.tagesschau.de</link>
+		<description>tagesschau.de</description>
+		<language>de</language>
+		<copyright>tagesschau.de, Norddeutscher Rundfunk</copyright>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<ttl>30</ttl>
+		<item>
+			<title>Fall Khashoggi: Saudi-Arabien warnt vor "roter Linie"</title>
+			<link>http://www.tagesschau.de/ausland/khashoggi-259.html</link>
+			<description>Saudi-Arabien wehrt sich gegen den Verdacht, Kronprinz Salman könnte für den Mord an Jamal Khashoggi verantwortlich sein. Außenminister Al-Dschubeir warnte davor, mit solchen Vermutungen eine "rote Linie" zu überschreiten.</description>
+			<guid>http://www.tagesschau.de/ausland/khashoggi-259.html</guid>
+			<category>Ausland</category>
+		</item>
+		<item>
+			<title>E-Mail-Affäre um Ivanka Trump?</title>
+			<link>http://www.tagesschau.de/ausland/ivanka-trump-mails-101.html</link>
+			<description>Ivanka Trump hat laut einem Pressebericht Dienstmails von einem privaten Account verschickt. Für den US-Präsidenten könnte der Fall peinlich werden - schließlich hatte er Hillary Clinton für einen ähnlichen Fall scharf kritisiert.</description>
+			<guid>http://www.tagesschau.de/ausland/ivanka-trump-mails-101.html</guid>
+			<category>Ausland</category>
+		</item>
+		<item>
+			<title>Eurowings-Kabinenpersonal streikt für bessere Arbeitszeiten</title>
+			<link>http://www.tagesschau.de/wirtschaft/verdi-eurowings-103.html</link>
+			<description>Das Kabinenpersonal von Eurowings streikt für verlässlichere Dienstpläne, Arbeits- und Bereitschaftszeiten. Nach Angaben eines Sprechers des Flughafens Düsseldorf sind 14 Flüge vom Ausstand betroffen.</description>
+			<guid>http://www.tagesschau.de/wirtschaft/verdi-eurowings-103.html</guid>
+			<category>Wirtschaft</category>
+		</item>
+		<item>
+		<title>Feinschliff für das Einwanderungsgesetz</title>
+		<link>http://www.tagesschau.de/inland/arbeitsmarkt-fachkraefte-einwanderung-101.html</link>
+		<description>Union und SPD haben sich offenbar auf die konkrete Ausgestaltung ihres Einwanderungsgesetzes geeinigt. Das berichtet die "SZ". Auch beim umstrittenen "Spurwechsel" für geduldete Flüchtlinge gab es einen Kompromiss.</description>
+		<guid>http://www.tagesschau.de/inland/arbeitsmarkt-fachkraefte-einwanderung-101.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>Ministerin Giffey will mehr Hilfe für Gewaltopfer</title>
+		<link>http://www.tagesschau.de/inland/haeusliche-gewalt-giffey-101.html</link>
+		<description>Mehr Hilfe und besserer Schutz für Opfer von häuslicher Gewalt - das will Familienministerin Giffey. Um dieses Ziel zu erreichen, hat sie ein neues Förderprogramm angekündigt. 2017 gab es fast 140.000 Fälle.</description>
+		<guid>http://www.tagesschau.de/inland/haeusliche-gewalt-giffey-101.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>Bericht der Diesel-Expertenkommission: Von der Realität überholt</title>
+		<link>http://www.tagesschau.de/wirtschaft/treffen-diesel-scheuer-103.html</link>
+		<description>Eine Expertenkommission des Verkehrsministeriums will heute ihren Abschlussbericht zum Dieselskandal beschließen. Dass sich die Regierung längst mit den Autoherstellern geeinigt hat, ist nicht gut angekommen. Von Arne Meyer-Fünffinger.</description>
+		<guid>http://www.tagesschau.de/wirtschaft/treffen-diesel-scheuer-103.html</guid>
+		<category>Wirtschaft</category>
+		</item>
+		<item>
+		<title>Moorbrand in Meppen: Brandrisiken in Kauf genommen?</title>
+		<link>http://www.tagesschau.de/inland/bundeswehr-moorbrand-meppen-101.html</link>
+		<description>Wochenlang brannte es im September nach einer Raketenübung auf dem Bundeswehrgelände in Meppen. Warum wurde die Übung trotz der Hitze der vorangegangenen Wochen nicht verschoben? Aus Kostengründen? Von Christoph Prössl.</description>
+		<guid>http://www.tagesschau.de/inland/bundeswehr-moorbrand-meppen-101.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>AfD-Parteitag: Mit klarem Feindbild Richtung Brüssel</title>
+		<link>http://www.tagesschau.de/inland/afd-parteitag-227.html</link>
+		<description>Auf ihrem Europaparteitag zelebriert die AfD ihre Idee von Basisdemokratie. Das gewährt einen unverblümten Blick auf die Partei. Von den angestrebten 40 Listenplätzen besetzt sie jedoch nicht einmal die Hälfte. Von Tom Schneider.</description>
+		<guid>http://www.tagesschau.de/inland/afd-parteitag-227.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>Hartz IV-Diskussion: Was wollen die Parteien?</title>
+		<link>http://www.tagesschau.de/inland/konzepte-hartz-iv-ersatz-101.html</link>
+		<description>Seit seiner Einführung ist Hartz IV umstritten. Inzwischen will sich nicht nur die SPD davon lösen. Auch die anderen Parteien haben Ideen für eine Reform. Ein Überblick von Sandra Stalinski.</description>
+		<guid>http://www.tagesschau.de/inland/konzepte-hartz-iv-ersatz-101.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>Verhandlungen für EU-Haushalt 2019 sind vorerst geplatzt</title>
+		<link>http://www.tagesschau.de/ausland/eu-haushalt-137.html</link>
+		<description>Bis Mitternacht hätten die EU und ihre Mitglieder sich auf den Haushalt für das kommende Jahr einigen sollen. Doch die Verhandlungen sind gescheitert. Folgt kein schneller Kompromiss, drohen der EU Notbudgets.</description>
+		<guid>http://www.tagesschau.de/ausland/eu-haushalt-137.html</guid>
+		<category>Ausland</category>
+		</item>
+		<item>
+		<title>USA schließen zeitweise Grenze bei Tijuana</title>
+		<link>http://www.tagesschau.de/ausland/tijuana-migration-mexiko-101.html</link>
+		<description>Die USA haben den verkehrsreichsten Grenzübergang nach Mexiko zeitweise geschlossen und dort neue Absperrungen errichtet - angeblich, um einen Ansturm von Migranten aus Zentralamerika zu verhindern.</description>
+		<guid>http://www.tagesschau.de/ausland/tijuana-migration-mexiko-101.html</guid>
+		<category>Ausland</category>
+		</item>
+		<item>
+		<title>Weißes Haus : CNN-Reporter Acosta darf bleiben</title>
+		<link>http://www.tagesschau.de/ausland/cnn-acosta-weisseshaus-105.html</link>
+		<description>Der CNN-Journalist Acosta bleibt nun doch dauerhaft im Weißen Haus akkreditiert. Die Administration zog die Drohung zurück, seine Zulassung nach Auslauf einer einstweiligen Verfügung zurückzuziehen.</description>
+		<guid>http://www.tagesschau.de/ausland/cnn-acosta-weisseshaus-105.html</guid>
+		<category>Ausland</category>
+		</item>
+		<item>
+		<title>20 Jahre ISS: Mit Intel-Chips aus den 80ern im All</title>
+		<link>http://www.tagesschau.de/ausland/20-jahre-iss-101.html</link>
+		<description>Mit Computern, die schon damals alt waren, startete vor 20 Jahren das erste Modul der Internationalen Raumstation. Heute arbeitet dort ein Mix aus museumsreifer und futuristischer Technik. Von Yvonne Maier.</description>
+		<guid>http://www.tagesschau.de/ausland/20-jahre-iss-101.html</guid>
+		<category>Ausland</category>
+		</item>
+		<item>
+		<title>Anna Schudt gewinnt Emmy als beste Hauptdarstellerin</title>
+		<link>http://www.tagesschau.de/kultur/emmys-schudt-101.html</link>
+		<description>Ihre Rolle als Gaby Köster hat ihr den International Emmy eingebracht: Anna Schudt wurde als beste Hauptdarstellerin geehrt. Vor der Kamera hatte sie die Köster während ihrer Genesung nach einem Schlaganfall verkörpert.</description>
+		<guid>http://www.tagesschau.de/kultur/emmys-schudt-101.html</guid>
+		<category>Kultur</category>
+		</item>
+		<item>
+		<title>Zeitgeschichte: Die Tagesschau vor 20 Jahren</title>
+		<link>http://www.tagesschau.de/inland/tsvorzwanzigjahren100.html</link>
+		<description>Wie sah die Welt vor 20 Jahren aus? Welche Themen bestimmten die politische Debatte? Wer war damals wichtig? Die Tagesschau bietet einen wertvollen Einblick in die jüngere Zeitgeschichte. Tagesschau.de dokumentiert sie Tag für Tag mit den 20-Uhr-Ausgaben.</description>
+		<guid>http://www.tagesschau.de/inland/tsvorzwanzigjahren100.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>Dossier: Football Leaks</title>
+		<link>https://recherche.sportschau.de/footballleaks/index.html</link>
+		<description>Die elitäre European Super League soll 2021 starten. Bayern München und Borussia Dortmund wären wie 14 weitere Top-Clubs dabei. Champions League ade? Alle Berichte im Dossier bei sportschau.de.</description>
+		<guid>https://recherche.sportschau.de/footballleaks/index.html</guid>
+		<category>Sport</category>
+		</item>
+		<item>
+		<title>Webdokumentation: Flucht, Migration, Vertreibung</title>
+		<link>http://reportage.daserste.de/flucht-2198983b-3417-4bb6-a075-08f13b45b304#181628</link>
+		<description>Krieg, Armut, Klimakatastrophen oder Diktatur - die Ursachen für Flucht sind vielfältig. Die Betroffenen handeln häufig aus Verzweiflung und und riskieren oft ihr Leben. Eine Webdokumentation.</description>
+		<guid>http://reportage.daserste.de/flucht-2198983b-3417-4bb6-a075-08f13b45b304#181628</guid>
+		<category>Ausland</category>
+		</item>
+		<item>
+		<title>News-Updates von Novi</title>
+		<link>https://novi.funk.net</link>
+		<description>Was ist gerade wichtig und warum? Chatbot Novi fasst morgens und abends die News zusammen. Verfügbar im Facebook Messenger, als Web-App und jetzt auch auf Telegram und Skype. Ein Angebot von funk und tagesschau.</description>
+		<guid>https://novi.funk.net</guid>
+		<category></category>
+		</item>
+		<item>
+		<title>Die FDP, ein Jahr nach dem Nein zu Jamaika</title>
+		<link>http://www.tagesschau.de/inland/fdp-225.html</link>
+		<description>Vor einem Jahr machte FDP-Chef Lindner einen Strich durch eine mögliche Jamaika-Koalition. Doch war es für die Liberalen wirklich besser, nicht zu regieren? Von Daniel Pokraka.</description>
+		<guid>http://www.tagesschau.de/inland/fdp-225.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>Studie zur "Generation Internet": Besorgt im Netz</title>
+		<link>http://www.tagesschau.de/inland/internet-jugendliche-studie-101.html</link>
+		<description>Misstrauischer und deutlich vorsichtiger. So beschreibt eine Studie die "Generation Internet" - also diejenigen, die heute zwischen 14 und 24 Jahre alt sind. Mobbing, Fake-Profile und Beleidigungen machen ihnen Sorgen.</description>
+		<guid>http://www.tagesschau.de/inland/internet-jugendliche-studie-101.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>Auswärtiges Amt warnt vor Abschiebungen nach Syrien</title>
+		<link>http://www.tagesschau.de/inland/syrien-abschiebungen-101.html</link>
+		<description>Das Auswärtige Amt warnt in einem Bericht zur Lage in Syrien, der NDR, WDR und "SZ" vorliegt, vor Abschiebungen in das Land. Rückkehrer seien vielen Gefahren ausgesetzt. Von Reiko Pinkert.</description>
+		<guid>http://www.tagesschau.de/inland/syrien-abschiebungen-101.html</guid>
+		<category>Inland</category>
+		</item>
+		<item>
+		<title>Demirci-Prozess wird Prüfstein für Türkei-Kurs Berlins</title>
+		<link>http://www.tagesschau.de/ausland/adil-demirci-prozess-101.html</link>
+		<description>Die Anklage wirft Adil Demirci Terrorpropaganda vor, Unterstützer sehen den Deutschen als Geisel der türkischen Regierung. Der Prozess stellt den Kurs der Bundesregierung in Frage. Von Oliver Mayer-Rüth.</description>
+		<guid>http://www.tagesschau.de/ausland/adil-demirci-prozess-101.html</guid>
+		<category>Ausland</category>
+		</item>
+		<item>
+		<title>Bericht der WHO: Malaria wieder auf dem Vormarsch</title>
+		<link>http://www.tagesschau.de/ausland/malaria-117.html</link>
+		<description>Laut WHO sterben jedes Jahr rund 400.000 Menschen an den Folgen einer Malaria-Infektion. Nach jahrelangen Erfolgen in der Bekämpfung ist die Krankheit wieder auf dem Vormarsch - insbesondere in Afrika.</description>
+		<guid>http://www.tagesschau.de/ausland/malaria-117.html</guid>
+		<category>Ausland</category>
+		</item>
+		<item>
+		<title>Steuerbetrugsvorwurf: Nissan will Chef entlassen</title>
+		<link>http://www.tagesschau.de/wirtschaft/nissan-ghosn-101.html</link>
+		<description>Carlos Ghosn gilt als Retter Nissans vor dem Bankrott - doch nun will der Autohersteller seinen Chef loswerden. Ihm wird unter anderem Steuerhinterziehung vorgeworfen. Laut Medienberichten wurde er festgenommen.</description>
+		<guid>http://www.tagesschau.de/wirtschaft/nissan-ghosn-101.html</guid>
+		<category>Wirtschaft</category>
+		</item>
+		<item>
+		<title>Football Leaks: Droht Infantino ein Strafverfahren?</title>
+		<link>https://recherche.sportschau.de/footballleaks/allemeldungen/Football-Leaks-Infantino-FIFA-Project-Trophy-UEFA,footballleaks220.html</link>
+		<description>Die geheimen Pläne von FIFA-Präsident Infantino schlagen hohe Wellen. Experten halten juristische Schritte wegen Untreue für möglich. UEFA und DFB fordern Aufklärung - aber die FIFA wiegelt ab.</description>
+		<guid>https://recherche.sportschau.de/footballleaks/allemeldungen/Football-Leaks-Infantino-FIFA-Project-Trophy-UEFA,footballleaks220.html</guid>
+		<category>Sport</category>
+		</item>
+	</channel>
+</rss>

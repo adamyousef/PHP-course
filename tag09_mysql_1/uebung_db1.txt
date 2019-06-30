@@ -1,0 +1,13 @@
+Erstellen Sie eine Datenbank mit folgenden Daten
+
+Blue Album 				Beatles				Rock	1970
+Red Album 			 	Beatles		 		Rock	1966
+Unplugged  				Eric Clapton		Pop	 	1992
+Riding With the King 	Eric Clapton		Blues	1992
+Travels 				Pat Metheny			Jazz	1986
+Still on Top			Van Morrison		Blues	2007
+Sticky Fingers			Rolling Stones		Rock	1971
+Have a Nice Day 		Roxette		 		Pop	 	1999
+
+
+Erstellen Sie mit PHP eine Webseite mit der Ausgabe der Daten in einer Tabelle.

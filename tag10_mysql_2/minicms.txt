@@ -1,0 +1,12 @@
+Datenbank: minicms
+
+Tabelle: artikel
+
+id		headline	artikel			monat		tag
+INT		VARCHAR 150	VARCHAR 4000    VARCHAR 3   VARCHAR 2
+
+
+Tabelle: config
+
+id		art
+INT		VARCHAR 40

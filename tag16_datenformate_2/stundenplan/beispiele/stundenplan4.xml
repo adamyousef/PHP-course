@@ -1,0 +1,61 @@
+<?xml version= "1.0" encoding="ISO-8859-1"?>
+
+
+<stundenplan>
+	<tag tag="Montag"> 
+		<stunde zeit="08-09"> Lesen </stunde>
+		<stunde zeit="09-10"> Schreiben </stunde>
+		<stunde> Heimatkunde </stunde>	
+		<stunde> Rechnen </stunde>
+		<stunde> Sport </stunde>
+		<stunde> Sport </stunde>	
+	</tag>
+	<tag tag="Dienstag"> 
+		<stunde zeit="08-09"> Lesen </stunde>
+		<stunde zeit="09-10"> Schreiben </stunde>
+		<stunde> Heimatkunde </stunde>	
+		<stunde> Rechnen </stunde>
+		<stunde> Sport </stunde>
+		<stunde> Sport </stunde>		
+	</tag>
+	<tag> Mittwoch
+		<stunde> Lesen </stunde>
+		<stunde> Schreiben </stunde>
+		<stunde> Heimatkunde </stunde>	
+		<stunde> Rechnen </stunde>
+		<stunde> Sport </stunde>
+		<stunde> Sport </stunde>		
+		
+		
+	</tag>
+	<tag> Donnerstag
+		<stunde> Lesen </stunde>
+		<stunde> Schreiben </stunde>
+		<stunde> Heimatkunde </stunde>	
+		<stunde> Rechnen </stunde>
+		<stunde> Sport </stunde>
+		<stunde> Sport </stunde>	
+		
+		
+		
+	</tag>
+	<tag> Freitag
+		<stunde> Lesen </stunde>
+		<stunde> Schreiben </stunde>
+		<stunde> Heimatkunde </stunde>	
+		<stunde> Rechnen </stunde>
+		<stunde> Sport </stunde>
+		<stunde> Sport </stunde>	
+	</tag>
+
+
+
+
+
+
+
+
+
+
+
+</stundenplan>

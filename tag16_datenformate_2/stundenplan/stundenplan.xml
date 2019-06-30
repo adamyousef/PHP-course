@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+	
+	<nodes>Inhalt</nodes>
+	<nodes attr="Inhalt">Inhalt</nodes>
+	<nodes attr="Inhalt" />
+	
+	PARENTS  - ELTERN
+	CHILDS   - KINDERN
+	SIBLINGS - GESCHWISTERN
+	
+-->
+
+
+<plan klasse="3A">
+
+	<tag tag="ZEIT">
+		<stunde>08.00 - 09.00</stunde>
+		<stunde>09.00 - 10.00</stunde>
+		<stunde>10.00 - 11.00</stunde>
+		<stunde>11.00 - 12.00</stunde>
+		<stunde>12.00 - 13.00</stunde>
+		<stunde>13.00 - 14.00</stunde>
+	</tag>
+
+	<tag tag="Montag">
+		<stunde>1 Lesen</stunde>
+		<stunde>2 Lesen</stunde>	
+		<stunde>3 Lesen</stunde>	
+		<stunde>4 Lesen</stunde>	
+		<stunde>5 Lesen</stunde>	
+		<stunde>6 Lesen</stunde>	
+	</tag>
+	
+	<tag tag="Dienstag">
+		<stunde>1 Schreiben</stunde>
+		<stunde>2 Schreiben</stunde>
+		<stunde>3 Schreiben</stunde>
+		<stunde>4 Schreiben</stunde>
+		<stunde>5 Schreiben</stunde>
+		<stunde>6 Schreiben</stunde>
+	</tag>
+	
+	<tag tag="Mittwoch">
+		<stunde>1 Rechnen</stunde>
+		<stunde>2 Rechnen</stunde>
+		<stunde>3 Rechnen</stunde>
+		<stunde>4 Rechnen</stunde>
+		<stunde>5 Rechnen</stunde>
+		<stunde>6 Rechnen</stunde>
+	</tag>
+	
+	<tag tag="Donnerstag">
+		<stunde>1 Heimatkunde</stunde>
+		<stunde>2 Heimatkunde</stunde>
+		<stunde>3 Heimatkunde</stunde>
+		<stunde>4 Heimatkunde</stunde>
+		<stunde>5 Heimatkunde</stunde>
+		<stunde>6 Heimatkunde</stunde>
+	</tag>
+	
+	<tag tag="Freitag">
+		<stunde>1 Sport</stunde>
+		<stunde>2 Sport</stunde>
+		<stunde>3 Sport</stunde>
+		<stunde>4 Sport</stunde>
+		<stunde>5 Sport</stunde>
+		<stunde>6 Sport</stunde>
+	</tag>
+
+</plan>

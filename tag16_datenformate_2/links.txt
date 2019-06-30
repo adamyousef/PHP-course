@@ -1,0 +1,10 @@
+https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml
+https://www.openligadb.de/api/getmatchdata/bl1/2016/8
+http://horoskope.bild.de/xml/tageshoroskop.php
+
+http://www.tvspielfilm.de/tv-programm/rss/jetzt.xml
+http://www.tvspielfilm.de/tv-programm/rss/heute2015.xml
+http://www.tvspielfilm.de/tv-programm/rss/heute2200.xml
+http://www.tvspielfilm.de/tv-programm/rss/filme.xml
+
+http://www.tagesschau.de/newsticker.rdf

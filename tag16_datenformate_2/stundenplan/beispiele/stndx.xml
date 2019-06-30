@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<stundenplan>
+	<MO>
+		<fach1>Lesen</fach1>
+		<fach2>Schreiben</fach2>
+		<fach3>Rechnen</fach3>
+		<fach4>Hiematkunde</fach4>
+		<fach5>Sport</fach5>
+	</MO>
+	<DI>
+		<fach1>Schreiben</fach1>
+		<fach2>Lesen</fach2>
+		<fach3>Rechnen</fach3>
+		<fach4>Hiematkunde</fach4>
+		<fach5>tzetz</fach5>
+	</DI>
+	<MI>
+		<fach1>Rechnen</fach1>
+		<fach2>Schreiben</fach2>
+		<fach3>Lesen</fach3>
+		<fach4>Hiematkunde</fach4>
+		<fach5></fach5>
+	</MI>
+	<DO>
+		<fach1>Sport</fach1>
+		<fach2>Schreiben</fach2>
+		<fach3>Rechnen</fach3>
+		<fach4>Lesen</fach4>
+		<fach5>Heimatkunde</fach5>
+	</DO>
+	<FR>
+		<fach1></fach1>
+		<fach2>Schreiben</fach2>
+		<fach3>Rechnen</fach3>
+		<fach4>Lesen</fach4>
+		<fach5></fach5>
+	</FR>
+
+</stundenplan>
+

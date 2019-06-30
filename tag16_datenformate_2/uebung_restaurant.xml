@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+
+	Beispiel: https://zwoelfapostel-hilden.de/speisekarte
+
+-->
+
+<speisekarte>
+
+	<kategorie art="Salat">
+	</kategorie>
+	
+	<kategorie art="Pizza">
+	</kategorie>
+	
+	<kategorie art="Pasta">
+	</kategorie>
+
+</speisekarte>

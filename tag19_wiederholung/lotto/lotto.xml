@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<lotto>
+
+	<ziehung tag="Mittwoch">
+		<zahl>11</zahl>
+		<zahl>2</zahl>
+		<zahl>3</zahl>
+		<zahl>4</zahl>
+		<zahl>5</zahl>
+		<zahl>6</zahl>
+		<super>7</super>
+		<spiel77>7469537</spiel77>
+		<super6>997871</super6>
+	</ziehung>
+
+	<ziehung tag="Samstag">
+		<zahl>14</zahl>
+		<zahl>15</zahl>
+		<zahl>20</zahl>
+		<zahl>37</zahl>
+		<zahl>40</zahl>
+		<zahl>45</zahl>
+		<super>1</super>
+		<spiel77>7469537</spiel77>
+		<super6>997871</super6>
+	</ziehung>
+
+</lotto>

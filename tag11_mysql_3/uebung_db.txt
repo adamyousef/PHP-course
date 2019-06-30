@@ -1,0 +1,58 @@
+﻿Erstellen Sie eine normalisierte Datenbank mit folgenden Daten
+
+Schneetreiben		Stefan Holtkötter	Krimi		2008 	Taschenbuch			Versand
+Wer Wind sät		Nele Neuhaus		Krimi		2011 	Gebundene Ausgabe	Direkt Lieferung
+Concept Cars 		Jon Stroud			Sachbuch	2009 	Gebundene Ausgabe 	Versand
+Faszination Golf	Maria Pia Gennaro	Sachbuch	2010 	Gebundene Ausgabe	Abholung
+Legendäre Harleys	Pascal Szymezak		Sachbuch	2000 	Taschenbuch			Direkt Lieferung
+Analysis 2			Ehrhard Behrends 	Lernbuch	2004 	Broschiert Ausgabe	Abholung
+Lernbuch Geschichte	Karin Volkwein		Lernbuch	2007 	Broschiert Ausgabe	Versand
+
+Erstellen Sie mit PHP eine Webseite mit der Ausgabe der Daten in einer Tabelle.
+
+-----------------------------------------------------------------------------------------
+
+1.) Welcher Lieferant liefert welche Produkte?
+
+	Lieferant | Produkte
+	----------|----------
+	OBI	  | Werkzeug		 
+	Baushaus  | Regal
+
+select p.ProductName, s.CompanyName from suppliers s, products p where s.SupplierID = p.SupplierID 	
+
+
+
+
+	
+2.) Welcher Kategorie ist ein Produkt zugeordnet?
+
+	Kategorie | Produkt
+	----------|--------
+	Fleisch   | Steak
+	Käse	  | Edamer
+	
+select c.CategoryName, p.ProductName from categories c, products p where p.CategoryID = c.CategoryID  
+
+
+3.) Für welche Region ist welcher Verkäufer zuständig?
+
+	Verkäufer | Region
+	----------|-------
+	Müller    | West
+	Schmitz   | Süd
+	
+
+
+
+SELECT DISTINCT(e.EmployeeID) as "Verkäufer_ID",
+e.FirstName as "Vorname",
+e.LastName as "Nachname",
+r.RegionDescription as "Region"
+FROM employees e, employeeterritories et, territories t, region r 
+WHERE e.EmployeeID = et.EmployeeID
+AND et.TerritoryID = t.TerritoryID
+AND t.RegionID = r.RegionID
+ORDER BY e.EmployeeID
+	
+

@@ -1,0 +1,51 @@
+Redundanzvermeidung durch Normalisierung
+
+Datenbank: musik
+
+Tabelle: cd
+
+id	album					id_artist	id_genre jahr
+int varchar 50				int			int		 int
+										
+												
+1	Blue Album 				1			1		 1970
+2	Red Album 			 	1			1		 1966
+3	Unplugged  				2			2	 	 1992
+4	Riding With the King 	2			3		 1992
+5	Travels 				3			4		 1986
+6	Still on Top			4			3		 2007
+7	Sticky Fingers			5			1		 1971
+8	Have a Nice Day 		6			2	 	 1999
+
+---------------------------------------------------------
+
+Tabelle: artist
+
+id	artist
+int varchar 50
+
+1	Beatles
+2	Eric Clapton
+3	Pat Metheny
+4	Van Morrison
+5	Rolling Stones
+6	Roxette
+
+--------------------------------------------------------
+
+Tabelle: genre
+
+id	genre
+int varchar 20
+
+1	Rock
+2	Pop
+3	Blues
+4	Jazz
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wochenplan>
+	<plan>
+		<tag>Mo</tag>
+		<stunde>Lesen</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Sport</stunde>
+	</plan>
+	
+	<plan>
+		<tag>Die</tag>
+		<stunde>Lesen</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Sport</stunde>
+	</plan>
+	
+	<plan>
+		<tag>Mi</tag>
+		<stunde>Lesen</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Sport</stunde>
+	</plan>
+	
+	<plan>
+		<tag>Do</tag>
+		<stunde>Lesen</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Sport</stunde>
+	</plan>
+	
+	<plan>
+		<tag>Fr</tag>
+		<stunde>Lesen</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Sport</stunde>
+	</plan>
+</wochenplan>

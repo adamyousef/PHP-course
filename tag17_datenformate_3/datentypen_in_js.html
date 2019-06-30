@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Die Beschreibung im Suchergebnis einer Suchmaschine ca.140 Zeichen" />
+		<meta name="keywords" content="HTML, Grundgerüst, Einstieg in HTML max ca. 10" />
+		
+		<title>Tolle Webseite</title>
+	
+		<style></style>
+	
+	</head>
+
+	<body>
+	
+		<h2>Datentypen in Javascript</h2>
+		
+		<script>
+			
+			var pi   = 3.14;					// NUMBER
+			var str  = 'Heute ist Donnerstag.'; // STRING
+			var wahr = true;					// BOOLEAN
+			
+			var penny = ['Wurst', 'Käse', 'Brot', 'Butter'];	// ARRAY
+			
+			var adr  = {vn:'Susi', nn:'Meyer', ort:'Köln'};		    // OBJECT
+			var json = {"vn":"Tina", "nn":"Müller", "ort":"Essen"}; // OBJECT ist auch gleichzeitig die
+																	// (J)ava(S)cript(O)bject(N)otation
+			
+			document.write('<h3>' + adr.nn + '</h3>');
+			document.write('<h3>' + json.nn + '</h3>');
+		
+		
+			var html = '<table border="1">';
+			for(var n=0; n<5; n++){
+				html += '<tr>';
+				html += '<td>4711</td>';
+				html += '<td>4711</td>';
+				html += '<td>4711</td>';
+				html += '</tr>';
+			}
+			html += '</table>';
+			document.write(html);
+		
+		
+		</script>
+		
+	
+	</body>
+
+</html>

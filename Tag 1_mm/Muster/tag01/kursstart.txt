@@ -1,0 +1,20 @@
+Kurs: 		PHP (Grundlagen)
+Zeitraum: 	26.10.2018 - 28.11.2018 (21 Tage) 
+Dozent: 	Michael Mündelein  (die ersten drei Tage)
+Klausur: 	28.11.2018
+
+Unterrichtsfreie Tage: 31.10., 01.11. und der 21.11.
+
+Tageszeitplan: 
+
+08:00 Uhr - 09:30 Uhr -> Unterricht / Übungen
+09:30 Uhr - 09:45 Uhr -> 1. Pause
+09:45 Uhr - 11:15 Uhr -> Unterricht / Übungen 
+11:15 Uhr - 11:30 Uhr -> 2. Pause
+11:30 Uhr - 13:00 Uhr -> Unterricht / Übungen
+13:00 Uhr - 13:30 Uhr -> Mittagspause
+
+13:30 Uhr - 16:45 Uhr -> Übungsphase 
+
+(Fr)
+15:15 Uhr - 16:45 Uhr -> Integrationsunterstützung

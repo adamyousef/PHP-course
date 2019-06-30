@@ -1,0 +1,5 @@
+Erstellen Sie eine XML-Datei für Ankunft- und Abflugzeiten
+eines beliebigen Flughafens.
+
+Geben Sie die Daten getrennt nach Ankunft und Abflug 
+in zwei unterschiedlichen HTML-Tabellen aus.

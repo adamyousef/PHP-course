@@ -1,0 +1,15 @@
+
+Dateien 
+
+	binäre Dateien
+		- Bilddateien
+		- ausführbare Programme
+	
+	Textdateien
+
+		- unstrukturierter Text
+
+		- strukturierter Text
+			- csv-Dateien
+			- XML
+			- JSON

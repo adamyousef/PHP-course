@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Die Beschreibung im Suchergebnis einer Suchmaschine ca.140 Zeichen" />
+		<meta name="keywords" content="HTML, Grundgerüst, Einstieg in HTML max ca. 10" />
+		
+		<title>Tolle Webseite</title>
+	
+		<style></style>
+	
+	</head>
+
+	<body>
+	
+		<h2>Datentypen in Javascript</h2>
+		
+		<script>
+			
+			var pi   = 3.14;					// NUMBER
+			var str  = 'Heute ist Donnerstag.'; // STRING
+			var wahr = true;					// BOOLEAN
+			
+			var penny = ['Wurst', 'Käse', 'Brot', 'Butter'];	// ARRAY
+			
+			var adr  = {vn:'Susi', nn:'Meyer', ort:'Köln'};		    // OBJECT
+			var json = {"vn":"Tina", "nn":"Müller", "ort":"Essen"}; // OBJECT ist auch gleichzeitig die
+																	// (J)ava(S)cript(O)bject(N)otation
+			
+			document.write('<h3>' + adr.nn + '</h3>');
+			document.write('<h3>' + json.nn + '</h3>');
+		
+		
+			/***********************************************************************
+			 K O M B I N A T O R I K E N
+			***********************************************************************/
+			
+			// Array im Array
+			var aia1 = [ [], [], [] ];
+			var aia2 = [ [11,22,33], [44,55,66], [77,88,99] ];
+			
+			document.write( aia2[1][2] + '<br/>' );  // 66
+			
+			// Objekt im Objekt
+			var oio1 = { aaa:{}, bbb:{}, ccc:{} };
+			var oio2 = { aaa:{vn:'Susi'}, bbb:{vn:'Otto'}, ccc:{vn:'Karl'} };
+			
+			document.write( oio2.ccc.vn + '<br/>'); // Karl
+			
+			// Array im Objekt
+			var aio1 = { aaa:[], bbb:[], ccc:[] };
+			var aio2 = { aaa:[11,22,33], bbb:[44,55,66], ccc:[77,88,99] };
+			
+			document.write( aio2.ccc[1] + '<br/>'); // 88
+			
+			// Objekt im Array
+			
+			var oia1 = [ {}, {}, {} ];
+			var oia2 = [ {vn:'Tina'}, {vn:'Susi'}, {vn:'Fritz'} ];
+			
+			document.write( oia2[1].vn + '<br/>' ); // Susi
+			
+	
+			var intern = { aaa:{vn:'Susi'}, bbb:{vn:'Otto'}, ccc:{vn:'Karl'} };
+			var json   = { "aaa":{"vn":"Susi"}, "bbb":{"vn":"Otto"}, "ccc":{"vn":"Karl"} };
+
+	
+		
+		</script>
+		
+	
+	</body>
+
+</html>

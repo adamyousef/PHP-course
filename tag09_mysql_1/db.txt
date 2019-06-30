@@ -1,0 +1,31 @@
+Frau Gabi Müller 50123 Köln 0221-123456789  gabi@web.de
+Frau Ulla Schmitz 20000 Hamburg 040-4444444 ulla@web.de  
+Herr Otto Meyer 80000 München 089-123459999 otto@web.de
+Herr Heinz Muster 06108 Halle/S 0345-12345 heinz@web.de
+Herr Fritz Huber 12345 Berlin 030-5678909  fritz@web.de
+
+
+HINZUFÜGEN	- (C)REATE
+LESEN		- (R)EAD
+ÄNDERN		- (U)PDATE
+LÖSCHEN 	- (D)ELETE
+
+
+SQL - Datenbanken
+
+DBMS -> Datenbanken -> Tabellen -> Datensätzen
+
+
+Datenbankname : firma
+
+Tabellenname  : kunden
+
+id   anrede  vorname nachname  plz     ort     telefon        email			-> Feldnamen
+int  varchar varchar varchar   varchar varchar varchar		  varchar	    -> Datentypen
+	 15		 25      40		   10      40      30             40
+
+1    Frau    Gabi    Müller    50123   Köln    0221-123456789 gabi@web.de
+2    Frau    Ulla    Schmitz   20000   Hamburg 040-4444444    ulla@web.de  
+3    Herr    Otto    Meyer     80000   München 089-123459999  otto@web.de
+4    Herr    Heinz   Muster    06108   Halle/S 0345-12345     heinz@web.de
+5    Herr    Fritz   Huber     12345   Berlin  030-5678909    fritz@web.de

@@ -1,0 +1,29 @@
+(E)ingabe
+
+	$_GET[]
+	$_POST[]
+
+(V)erarbeitung
+	
+	Datentypen (Variablen)			integer, real/double/float, string, array, object
+	Operatoren
+		- Zuweisungsoperatoren 		= += -= *= /= .= ++
+		- Berechnungsoperatoren 	+ - * / %
+		- Operator zur Zeichenkettenverküpfung  .
+		- Vergleichsoperatoren		! == != > < >= <=
+		- logische Verknüpfungen 	&& ||
+		- Bitoperatoren				~ & | ^ << >> >>>
+		
+	Funktionen
+		- Vordefinierte Funktionen
+		- Eigene Funktionen
+		
+	Kontrollstrukturen
+		- Schleifen					for(){}, while(), do{}while()
+		- Fallentscheidungen		if(){}else{}, switch(){}
+
+	OOP (Objektorientierte Programmierung)
+		
+(A)usgabe
+
+	echo 

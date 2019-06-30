@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buli_tabelle jahr="2018">
+  <team>
+    <platz farbe="0F0">1</platz>
+    <tendenz>none.png</tendenz>
+	<logo>bvb.svg</logo>
+    <name>Borussia Dortmund</name>
+    <gespielt>12</gespielt>
+    <punkte>30</punkte>
+    <siege>9</siege>
+    <unentschieden>3</unentschieden>
+    <niederlagen>0</niederlagen>
+    <tore>35</tore>
+    <gegentore>13</gegentore>
+    <differenz>+22</differenz>
+  </team>
+  <team>
+    <platz farbe="0F0">2</platz>
+    <tendenz>none.png</tendenz>
+	<logo>gladbach.svg</logo>
+    <name>Borussia Mönchengladbach</name>
+    <gespielt>12</gespielt>
+    <punkte>26</punkte>
+    <siege>8</siege>
+    <unentschieden>2</unentschieden>
+    <niederlagen>2</niederlagen>
+    <tore>30</tore>
+    <gegentore>14</gegentore>
+    <differenz>+16</differenz>
+  </team>
+  <team>
+    <platz farbe="0F0">3</platz>
+    <tendenz>up.png</tendenz>
+	<logo>frankfurt.svg</logo>
+    <name>Eintracht Frankfurt</name>
+    <gespielt>12</gespielt>
+    <punkte>23</punkte>
+    <siege>7</siege>
+    <unentschieden>2</unentschieden>
+    <niederlagen>3</niederlagen>
+    <tore>29</tore>
+    <gegentore>14</gegentore>
+    <differenz>+15</differenz>
+  </team>
+  <team>
+    <platz farbe="0F0">4</platz>
+    <tendenz>down.png</tendenz>
+	<logo>leipzig.svg</logo>
+    <name>RB Leipzig</name>
+    <gespielt>12</gespielt>
+    <punkte>22</punkte>
+    <siege>6</siege>
+    <unentschieden>4</unentschieden>
+    <niederlagen>2</niederlagen>
+    <tore>22</tore>
+    <gegentore>10</gegentore>
+    <differenz>+12</differenz>
+  </team>
+  <team>
+    <platz farbe="00F">5</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>FC Bayern München</name>
+    <gespielt>12</gespielt>
+    <punkte>21</punkte>
+    <siege>6</siege>
+    <unentschieden>3</unentschieden>
+    <niederlagen>3</niederlagen>
+    <tore>23</tore>
+    <gegentore>17</gegentore>
+    <differenz>+6</differenz>
+  </team>
+  <team>
+    <platz farbe="00F">6</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>TSG 1899 Hoffenheim</name>
+    <gespielt>12</gespielt>
+    <punkte>20</punkte>
+    <siege>6</siege>
+    <unentschieden>2</unentschieden>
+    <niederlagen>4</niederlagen>
+    <tore>27</tore>
+    <gegentore>18</gegentore>
+    <differenz>+9</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">7</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>SV Werder Bremen</name>
+    <gespielt>12</gespielt>
+    <punkte>18</punkte>
+    <siege>5</siege>
+    <unentschieden>3</unentschieden>
+    <niederlagen>4</niederlagen>
+    <tore>20</tore>
+    <gegentore>20</gegentore>
+    <differenz>0</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">8</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>Hertha BSC</name>
+    <gespielt>12</gespielt>
+    <punkte>17</punkte>
+    <siege>4</siege>
+    <unentschieden>5</unentschieden>
+    <niederlagen>3</niederlagen>
+    <tore>19</tore>
+    <gegentore>20</gegentore>
+    <differenz>-1</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">9</platz>
+    <tendenz>up.png</tendenz>
+	<logo>none.svg</logo>
+    <name>VfL Wolfsburg</name>
+    <gespielt>12</gespielt>
+    <punkte>15</punkte>
+    <siege>4</siege>
+    <unentschieden>3</unentschieden>
+    <niederlagen>5</niederlagen>
+    <tore>16</tore>
+    <gegentore>17</gegentore>
+    <differenz>-1</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">10</platz>
+    <tendenz>down.png</tendenz>
+	<logo>none.svg</logo>
+    <name>1. FSV Mainz 05</name>
+    <gespielt>12</gespielt>
+    <punkte>15</punkte>
+    <siege>4</siege>
+    <unentschieden>3</unentschieden>
+    <niederlagen>5</niederlagen>
+    <tore>11</tore>
+    <gegentore>14</gegentore>
+    <differenz>-3</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">11</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>Sport-Club Freiburg</name>
+    <gespielt>12</gespielt>
+    <punkte>14</punkte>
+    <siege>3</siege>
+    <unentschieden>5</unentschieden>
+    <niederlagen>4</niederlagen>
+    <tore>16</tore>
+    <gegentore>20</gegentore>
+    <differenz>-4</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">12</platz>
+    <tendenz>up.png</tendenz>
+	<logo>none.svg</logo>
+    <name>Bayer 04 Leverkusen</name>
+    <gespielt>12</gespielt>
+    <punkte>14</punkte>
+    <siege>4</siege>
+    <unentschieden>2</unentschieden>
+    <niederlagen>6</niederlagen>
+    <tore>18</tore>
+    <gegentore>24</gegentore>
+    <differenz>-6</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">13</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>FC Augsburg</name>
+    <gespielt>12</gespielt>
+    <punkte>13</punkte>
+    <siege>3</siege>
+    <unentschieden>4</unentschieden>
+    <niederlagen>5</niederlagen>
+    <tore>20</tore>
+    <gegentore>21</gegentore>
+    <differenz>-1</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">14</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>FC Schalke 04</name>
+    <gespielt>12</gespielt>
+    <punkte>13</punkte>
+    <siege>4</siege>
+    <unentschieden>1</unentschieden>
+    <niederlagen>7</niederlagen>
+    <tore>13</tore>
+    <gegentore>17</gegentore>
+    <differenz>-4</differenz>
+  </team>
+  <team>
+    <platz farbe="EEE">15</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>1. FC Nürnberg</name>
+    <gespielt>12</gespielt>
+    <punkte>10</punkte>
+    <siege>2</siege>
+    <unentschieden>4</unentschieden>
+    <niederlagen>6</niederlagen>
+    <tore>13</tore>
+    <gegentore>29</gegentore>
+    <differenz>-16</differenz>
+  </team>
+  <team>
+    <platz farbe="FF0">16</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>Hannover 96</name>
+    <gespielt>12</gespielt>
+    <punkte>9</punkte>
+    <siege>2</siege>
+    <unentschieden>3</unentschieden>
+    <niederlagen>7</niederlagen>
+    <tore>15</tore>
+    <gegentore>26</gegentore>
+    <differenz>-11</differenz>
+  </team>
+  <team>
+    <platz farbe="F00">17</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>Fortuna Düsseldorf 1895 e.V.</name>
+    <gespielt>12</gespielt>
+    <punkte>9</punkte>
+    <siege>2</siege>
+    <unentschieden>3</unentschieden>
+    <niederlagen>7</niederlagen>
+    <tore>13</tore>
+    <gegentore>28</gegentore>
+    <differenz>-15</differenz>
+  </team>
+  <team>
+    <platz farbe="F00">18</platz>
+    <tendenz>none.png</tendenz>
+	<logo>none.svg</logo>
+    <name>VfB Stuttgart</name>
+    <gespielt>12</gespielt>
+    <punkte>8</punkte>
+    <siege>2</siege>
+    <unentschieden>2</unentschieden>
+    <niederlagen>8</niederlagen>
+    <tore>8</tore>
+    <gegentore>26</gegentore>
+    <differenz>-18</differenz>
+  </team>
+</buli_tabelle>

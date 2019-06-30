@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+	<node>Content</node>
+	<node attribute="value" attribute="value">Content</node>
+	<node attribute="value" />
+	
+	PARENTS  - Eltern
+	CHILD	 - Kinder
+	SIBLINGS - Geschwister
+	
+-->
+
+
+<verzeichnis>
+     
+	 <titel>Wikipedia Städteverzeichnis</titel>
+	 
+     <eintrag>
+          <stichwort land="CH">Genf</stichwort>
+          <eintragstext>Genf ist der Sitz von ...</eintragstext>
+     </eintrag>
+     
+	 <eintrag>
+          <stichwort land="DE">Köln</stichwort>
+          <eintragstext>Köln ist eine Stadt, die ...</eintragstext>
+     </eintrag>
+
+</verzeichnis>

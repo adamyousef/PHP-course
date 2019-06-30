@@ -1,0 +1,3 @@
+Erstellen Sie aus einer beliebigen Templatevorlage eine Unesco-Website.
+Das Light-Template dient hier als Programmiervorlage.
+

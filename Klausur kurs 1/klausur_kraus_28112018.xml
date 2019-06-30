@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flughafenplanung>
+	<!--  ab -->
+	<abflug>
+		<flug>
+			<flug_nummer> 	IB 3137			</flug_nummer>
+			<ziel> 			Madrid-Barajas	</ziel>
+			<geplant>		07:55			</geplant>
+			<erwartet>		08:03			</erwartet>
+			<gate>			B73				</gate>
+			<check_in>		205-207			</check_in>
+			<bemerkung>		gestartet		</bemerkung>
+		</flug>
+	
+		<flug>
+			<flug_nummer> 	AB 8012			</flug_nummer>
+			<ziel> 			Stockholm		</ziel>
+			<geplant>		07:55			</geplant>
+			<erwartet>		08:03			</erwartet>
+			<gate>			B57				</gate>
+			<check_in>		151-170			</check_in>
+			<bemerkung>		gestartet		</bemerkung>
+		</flug>
+
+		<flug>
+			<flug_nummer> 	AB 8682			</flug_nummer>
+			<ziel> 			Bologna			</ziel>
+			<geplant>		08:05			</geplant>
+			<erwartet>		-				</erwartet>
+			<gate>			B42B			</gate>
+			<check_in>		151-170			</check_in>
+			<bemerkung>		Boarding		</bemerkung>
+		</flug>
+
+		<flug>
+			<flug_nummer> 	4U 8041			</flug_nummer>
+			<ziel> 			Berlin-Tegel	</ziel>
+			<geplant>		8:15			</geplant>
+			<erwartet>		-				</erwartet>
+			<gate>			A49				</gate>
+			<check_in>		106-120			</check_in>
+			<bemerkung>		rollt			</bemerkung>
+		</flug>
+
+		<flug>
+			<flug_nummer> 	AB 6742			</flug_nummer>
+			<ziel> 			Hamburg			</ziel>
+			<geplant>		8:15			</geplant>
+			<erwartet>		8:40			</erwartet>
+			<gate>			B40				</gate>
+			<check_in>		151-170			</check_in>
+			<bemerkung>		Boarding		</bemerkung>
+		</flug>
+		
+	</abflug>	
+	<!--  an -->
+	
+	<ankunft>
+		<flug>		
+			<flug_nummer> 	AB 8621			</flug_nummer>
+			<herkunft> 		Genf			</herkunft>
+			<geplant>		8:05			</geplant>
+			<erwartet>		8:02			</erwartet>
+			<ausgang>		4				</ausgang>
+			<bemerkung>		gelandet		</bemerkung>		
+		</flug>
+		
+		<flug>
+			<flug_nummer> 	AB 8761			</flug_nummer>
+			<herkunft> 		Venedig			</herkunft>
+			<geplant>		8:05			</geplant>
+			<erwartet>		7:58			</erwartet>
+			<ausgang>		1				</ausgang>
+			<bemerkung>		gelandet		</bemerkung>		
+		</flug>
+		
+		<flug>
+			<flug_nummer> 	OS 205			</flug_nummer>
+			<herkunft> 		Linz			</herkunft>
+			<geplant>		8:10			</geplant>
+			<erwartet>		-				</erwartet>
+			<ausgang>		-				</ausgang>
+			<bemerkung>		annuliert		</bemerkung>		
+		</flug>
+		
+		<flug>
+			<flug_nummer> 	AZ 418			</flug_nummer>
+			<herkunft> 		Mailand-Linate	</herkunft>
+			<geplant>		8:20			</geplant>
+			<erwartet>		8:33			</erwartet>
+			<ausgang>		4				</ausgang>
+			<bemerkung>		im Anflug		</bemerkung>		
+		</flug>
+		
+		<flug>
+			<flug_nummer> 	AB 8881			</flug_nummer>
+			<herkunft> 		Florenz			</herkunft>
+			<geplant>		8:20			</geplant>
+			<erwartet>		8:40			</erwartet>
+			<ausgang>		6				</ausgang>
+			<bemerkung>		-	</bemerkung>	
+		</flug>
+		
+	</ankunft>
+</flughafenplanung>

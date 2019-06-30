@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<Woche>
+	<Wochentag>
+		<tag>Montag</tag>
+		<stunde>frei</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>Lesen</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>frei</stunde>
+	</Wochentag>
+	<Wochentag>
+	<tag>Dienstag</tag>
+		<stunde>Schreiben</stunde>
+		<stunde>Lesen</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>frei</stunde>
+		<stunde>Heimatkunde</stunde>
+	</Wochentag>
+	<Wochentag>
+	<tag>Mittwoch</tag>
+		<stunde>Schreiben</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>frei</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>Sport</stunde>
+		<stunde>Sport</stunde>
+	</Wochentag>
+	<Wochentag>
+	<tag>Donnerstag</tag>
+		<stunde>frei</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>frei</stunde>
+	</Wochentag>
+	<Wochentag>
+	<tag>Freitag</tag>
+		<stunde>Lesen</stunde>
+		<stunde>lesen</stunde>
+		<stunde>Schreiben</stunde>
+		<stunde>Heimatkunde</stunde>
+		<stunde>Rechnen</stunde>
+		<stunde>Rechnen</stunde>
+	</Wochentag>
+	</Woche>
+
+
+

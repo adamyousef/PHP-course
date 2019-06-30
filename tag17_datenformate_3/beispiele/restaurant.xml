@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+
+	Beispiel: https://zwoelfapostel-hilden.de/speisekarte
+
+-->
+
+<karte>
+
+	<cat art="Salats">
+				<sorte>
+					<name>Salat Naomi</name>
+					<beschreibung>Gemischter Salatteller aus frischen Salaten der Saison mit Joghurtdressing</beschreibung>
+					<preis>7,40 €</preis>
+				</sorte>
+				<sorte>
+					<name>Salat Maria</name>
+					<beschreibung>Gemischter Salatteller aus frischen Salaten der Saison und kross gebratenen Hähnchenbrust-Filets mit Joghurtdressing.</beschreibung>
+					<preis>11,50 €</preis>
+				</sorte>
+				<sorte>
+					<name>Salat Mona Lisa</name>
+					<beschreibung>Gemischter Salatteller aus frischen Salaten der Saison mit Krabben, gedünsteten Zwiebeln und Joghurtdressing.</beschreibung>
+					<preis>9,50 €</preis>
+				</sorte>
+				<sorte>
+					<name>Salat Rebecca</name>
+					<beschreibung>Gemischter Salatteller aus frischen Salaten der Saison, Oliven griechischem Schafskäse und Joghurtdressing.</beschreibung>
+					<preis>9,80 €</preis>
+				</sorte>
+				<sorte>	
+					<name>Salat Ruth</name>
+					<beschreibung>Gemischter Salatteller aus frischen Salaten der Saison, Thunfischfilet, gekochtem Ei und Joghurtdressing.</beschreibung>
+					<preis>9,80 €</preis>
+				</sorte>
+				<sorte>	
+					<name>Salat Magdalena</name>
+					<beschreibung>Frischer, gemischter Gartensalat mit saftigen Rumpsteakstreifen in einer Tortillia. Dazu gibt es Avocadocreme, Sauerrahm und Joghurtdressing</beschreibung>
+					<preis>13,50 €</preis>
+				</sorte>						
+	</cat> 
+	
+	<cat art="Pizzas">
+				<sorte>
+					<name>Pizza Bartholomäus</name>
+					<beschreibung>Tomatensauce, Käse, Zwiebeln, Auberginen, scharfe Pepperoni.</beschreibung>
+					<preis>9,50 €</preis>
+				</sorte>
+				<sorte>
+					<name>Pizza Jacobus</name>
+					<beschreibung>Tomatensauce, Käse , Kartoffeln, Speck, Zwiebeln, Creme fraiche.</beschreibung>
+					<preis>8,80 €</preis>
+				</sorte>
+				<sorte>
+					<name>Pizza Andreas</name>
+					<beschreibung>Tomatensauce, Käse , Salami , frische Paprika, scharfe Pepperoni.</beschreibung>
+					<preis>9,80 €</preis>
+				</sorte>
+				<sorte>
+					<name>Pizza Judas</name>
+					<beschreibung>Tomatensauce, Käse , Meeresfrüchte, Thunfisch.</beschreibung>
+					<preis>9,10 €</preis>
+				</sorte>
+				<sorte>	
+					<name>Pizza Petrus</name>
+					<beschreibung>Tomatensauce, Käse, Scampi, Creme fraiche.</beschreibung>
+					<preis>10,20 €</preis>
+				</sorte>
+				<sorte>	
+					<name>Pizza Johannes</name>
+					<beschreibung>Tomatensauce, Käse , Speck, Gehacktes, Zwiebeln, frische Paprika.</beschreibung>
+					<preis>10,80 €</preis>
+				</sorte>
+				<sorte>	
+					<name>Pizza Thomas</name>
+					<beschreibung>Tomatensauce, Käse, frische Champignons, Rumpsteakstreifen, Kräuterbutter.</beschreibung>
+					<preis>10,10 €</preis>
+				</sorte>	
+				<sorte>	
+					<name>Pizza Jacobus der Ältere</name>
+					<beschreibung>Tomatensauce, Käse, Form-Vorderschinken, frische Champignons, Lauch, griechischer Feta.</beschreibung>
+					<preis>11,20 €</preis>
+				</sorte>	
+				<sorte>	
+					<name>Pizza Philippus</name>
+					<beschreibung>Tomatensauce, Käse, Mozzarella, Gorgonzola, Blattspinat.</beschreibung>
+					<preis>10,20 €</preis>
+				</sorte>	
+				<sorte>	
+					<name>Pizza Matthäus</name>
+					<beschreibung>Tomatensauce, Käse, frische Champignons, Rumpsteakstreifen, Kräuterbutter.</beschreibung>
+					<preis>10,80 €</preis>
+				</sorte>	
+				<sorte>	
+					<name>Pizza Thaddäus</name>
+					<beschreibung>Tomatensauce, Käse, echter italienischer Parmaschinken, frische Champignons, Rucola.</beschreibung>
+					<preis>11,80 €</preis>
+				</sorte>	
+				<sorte>	
+					<name>Pizza Simon</name>
+					<beschreibung>Tomatensauce, Käse, Scampi, frischer Lachs, Rucola, Creme fraiche.</beschreibung>
+					<preis>12,80 €</preis>
+				</sorte>					
+	</cat>
+	
+	<cat art="Pastas">
+				<sorte>
+					<name>Maccaroni Carne</name>
+					<beschreibung>Mit Rumpsteakstreifen, Aubergine, Zucchini, Zwiebeln, frischem Parmesan und Oliven in pikanter Tomatensahnesauce.</beschreibung>
+					<preis>10,90 €</preis>
+				</sorte>
+				<sorte>
+					<name>Spaghetti aglio</name>
+					<beschreibung>Mit Krabben, Pepperoni, Knoblauch und frischem Parmesan in leichtem Olivenöl.</beschreibung>
+					<preis>8,90 €</preis>
+				</sorte>
+				<sorte>
+					<name>Spaghetti Mare</name>
+					<beschreibung>Mit Shrimps, Zucchini, in frischer Tomaten-Basilikum-Sauce, serviert mit frischem Parmesan.</beschreibung>
+					<preis>9,20 €</preis>
+				</sorte>
+				<sorte>
+					<name>Spaghetti Bolognese nach art des Hauses</name>
+					<beschreibung>Feine Hackfleischsauce, nach einem alten Rezept, mit frischem Parmesan</beschreibung>
+					<preis>9,20 €</preis>
+				</sorte>
+				<sorte>
+					<name>Pappardellen Curry</name>
+					<beschreibung>Italienische Bandnudeln mit Hähnchenbruststreifen, Paprika, Zucchini in einer Currysahnesauce, serviert mit frischem Parmesan.</beschreibung>
+					<preis>10,50 €</preis>
+				</sorte>
+				<sorte>
+					<name>Tagliatelle della notte</name>
+					<beschreibung>Schwarze Bandnudeln mit saftigen Lachsstreifen, Zwiebeln, frischen Tomaten und frischem Parmesan, serviert in einer leichten Tomatensahnesauce.</beschreibung>
+					<preis>11,50 €</preis>
+				</sorte>
+				<sorte>	
+					<name>Spaghetti Toscana</name>
+					<beschreibung>Mit Hähnchenbruststreifen, frischen Tomaten, Zwiebeln, Rucola und frischem Parmesan in leichtem Olivenöl.</beschreibung>
+					<preis>10,50 €</preis>
+				</sorte>	
+				<sorte>	
+					<name>Spaghetti Classico</name>
+					<beschreibung>Serviert mit frischem Parmesan in feiner Pestosauce</beschreibung>
+					<preis>7,80 €</preis>
+				</sorte>				
+	</cat>
+
+</karte>

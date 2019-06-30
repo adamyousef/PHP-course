@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+
+	Beispiel: https://zwoelfapostel-hilden.de/speisekarte
+
+-->
+
+<speisekarte>
+
+	<kategorie art="Salat">
+		<gericht name="Salat Naomi" preis="7,40">Gemischter Salatteller aus frischen Salaten der Saison mit Joghurtdressing</gericht>
+		<gericht name="Salat Maria" preis="11,50">Gemischter Salatteller aus frischen Salaten der Saison und kross gebratenen Hähnchenbrust-Filets mit Joghurtdressing</gericht>	
+	</kategorie>
+	
+	<kategorie art="Pizza">
+		<gericht name="" preis=""></gericht>
+		<gericht name="" preis=""></gericht>
+	</kategorie>
+	
+	<kategorie art="Pasta">
+		
+		<name>Spaghetti „Classico“</name>
+		<beschreibung>Serviert mit frischem Parmesan in feiner Pestosauce</beschreibung>
+		<preis>7,60</preis>
+		
+		<name>Spaghetti aglio e olio</name>
+		<beschreibung>Mit Krabben, Pepperoni, Knoblauch und frischem Parmesan in leichtem Olivenöl</beschreibung>
+		<preis>8,90</preis>
+		
+	</kategorie>
+
+</speisekarte>

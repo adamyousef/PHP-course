@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<buchhandlung>
+
+	<buch kategorie="KOCHEN">
+		<titel sprache="de">Henslergrillen</titel>
+		<autor>Lafer, Lichter, Lecker</autor>
+		<jahr>2010</jahr>
+		<preis>30.00</preis>
+	</buch>
+	
+	<buch kategorie="ROMAN">
+		<titel sprache="de">Es ist so einsam im Sattel, seit das Pferd tot ist</titel>
+		<autor>Selim Özdogan</autor>
+		<jahr>1996</jahr>
+		<preis>7.95</preis>
+	</buch>
+	
+	<buch kategorie="KINDER">
+		<titel sprache="de">Harry Potter</titel>
+		<autor>J K. Rowling</autor>
+		<jahr>2005</jahr>
+		<preis>29.99</preis>
+	</buch>
+	
+	<buch kategorie="WEB">
+		<titel sprache="en">XQuery Kick Start</titel>
+		<autor>James McGovern</autor>
+		<jahr>2003</jahr>
+		<preis>49.99</preis>
+	</buch>
+	
+	<buch kategorie="WEB">
+		<titel sprache="en">Learning XML</titel>
+		<autor>Erik T. Ray</autor>
+		<jahr>2003</jahr>
+		<preis>39.95</preis>
+	</buch>
+	
+</buchhandlung>

@@ -1,0 +1,5 @@
+[
+	{"marke":"VW",   "modell":["Polo", "Golf", "Astra"] },
+	{"marke":"BMW",  "modell":["1er", "3er", "5er", "7er"] },
+	{"marke":"Opel", "modell":["Astra", "Kadett", "Arena", "Ascona"] }
+]

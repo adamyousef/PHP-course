@@ -1,0 +1,11 @@
+Erstellen Sie eine XML-Datei für einen Stundenplan
+mit maximal 6 Stunden am Tag mit den Tagen MO, DI, MI, DO, FR
+
+Beispiel für eine zweite Klasse mit den Fächern
+Lesen
+Schreiben
+Rechnen
+Heimatkunde
+Sport
+
+Geben Sie diesen Stundenplan in einer HTML-Tabelle aus.

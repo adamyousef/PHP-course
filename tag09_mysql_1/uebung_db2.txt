@@ -1,0 +1,17 @@
+1
+Importieren Sie die Datei unesco.zip
+Erstellen Sie eine Tabelle mit allen Kulturstätten aus Italien
+und geben Sie in der Tabelle auch die entsprechenden Bilder aus.
+
+2
+Erstellen Sie eine Datenbank mit folgenden Daten
+
+Schneetreiben		Stefan Holtkötter	Krimi		2008 	Taschenbuch			Versand
+Wer Wind sät		Nele Neuhaus		Krimi		2011 	Gebundene Ausgabe	Direkt Lieferung
+Concept Cars 		Jon Stroud			Sachbuch	2009 	Gebundene Ausgabe 	Versand
+Faszination Golf	Maria Pia Gennaro	Sachbuch	2010 	Gebundene Ausgabe	Abholung
+Legendäre Harleys	Pascal Szymezak		Sachbuch	2000 	Taschenbuch			Direkt Lieferung
+Analysis 2			Ehrhard Behrends 	Lernbuch	2004 	Broschiert Ausgabe	Abholung
+Lernbuch Geschichte	Karin Volkwein		Lernbuch	2007 	Broschiert Ausgabe	Versand
+
+Erstellen Sie mit PHP eine Webseite mit der Ausgabe der Daten in einer Tabelle.
